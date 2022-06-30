@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kinostation</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="preference_key">account_details</string>
+
+</resources>
